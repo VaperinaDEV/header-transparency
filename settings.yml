@@ -1,7 +1,7 @@
 header_color:
   type: string
   default: "255, 255, 255"
-  description: "RGB color code, for example: 47, 79, 79 <br> Or you can use RGB color variables, for example: var(--header_background-rgb)"
+  description: "RGB color code, e.g.: 47, 79, 79 <br> Or you can use RGB color variables, e.g.: var(--header_background-rgb)"
 header_transparency:
   type: string
   default: "1"
