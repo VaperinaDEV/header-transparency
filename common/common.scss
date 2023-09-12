@@ -1,0 +1,5 @@
+@import "variables";
+
+.d-header {
+  background: rgba(var(--header-color), var(--header-transparency));
+}
