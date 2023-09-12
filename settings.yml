@@ -1,12 +1,8 @@
 header_color:
   type: string
-  default: ""
-  description: 
-    en: "rgb color code, for example: 47, 79, 79"
+  default: "255, 255, 255"
+  description: "rgb color code, for example: 47, 79, 79"
 header_transparency:
   type: string
-  default: ""
-  min: 0
-  max: 1
-  description: 
-    en: "Transparency, for example: 0.8"
+  default: "1"
+  description: "Transparency, for example: 0.8"
